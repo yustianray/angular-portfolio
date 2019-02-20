@@ -904,6 +904,25 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
+/* ==========================================================================
+  Blog Section
+   ========================================================================== */
+   #blogs {
+    background: #f2f2f2;
+  }
+  
+  #blogs .mix {
+    padding: 10px;
+  }
+  
+  #blogs .blog-item .shot-item {
+    margin: 0px;
+  }
+  
+  #blog .mix {
+    /* display: none; */
+  }
+
 /* Services Item */
 .services {
   background: #F0F0F0;
