@@ -709,8 +709,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 3. Hero Area
 ========================================================================== */
 .hero-area-bg {
-  background: url(../img/hero-area.png) no-repeat;
+  background: url(../img/hero-area.png);
   background-size: cover;
+  background-repeat:no-repeat;
 }
 
 #hero-area {

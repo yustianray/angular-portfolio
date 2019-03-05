@@ -63,6 +63,9 @@
   #hero-area .contents p {
     font-size: 20px;
   }
+  .hero-area-bg {
+    background-position:center;
+  }
   .services-item {
     margin-bottom: 20px;
   }
